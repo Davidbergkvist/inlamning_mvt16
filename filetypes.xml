@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
+      <removed_mapping ext="feature" approved="true" type="Substeps" />
     </extensionMap>
   </component>
 </application>
